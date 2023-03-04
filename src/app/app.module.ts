@@ -14,6 +14,8 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { NewYorkComponent } from './pages/location/new-york/new-york.component';
 import { TokyoComponent } from './pages/location/tokyo/tokyo.component';
 import { DublinComponent } from './pages/location/dublin/dublin.component';
+import { UsersComponent } from './components/users/users.component';
+import { AdminComponent } from './pages/admin/admin.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { DublinComponent } from './pages/location/dublin/dublin.component';
     ContactComponent,
     NewYorkComponent,
     TokyoComponent,
-    DublinComponent
+    DublinComponent,
+    UsersComponent,
+    AdminComponent
   ],
   imports: [
     BrowserModule,

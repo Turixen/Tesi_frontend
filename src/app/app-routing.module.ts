@@ -9,8 +9,15 @@ import { NewYorkComponent } from './pages/location/new-york/new-york.component';
 import {  TokyoComponent} from './pages/location/tokyo/tokyo.component';
 import { DublinComponent } from './pages/location/dublin/dublin.component';
 
+import { AdminComponent } from './pages/admin/admin.component';
+import { UsersComponent } from './components/users/users.component';
+
+
 const routes: Routes = [
   { path: 'contact', component: ContactComponent },
+
+  { path: 'admin', component: AdminComponent },
+  { path: 'users', component: UsersComponent },
 
   { path: 'tokyo', component: TokyoComponent },
   { path: 'dublin', component: DublinComponent },

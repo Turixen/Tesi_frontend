@@ -1,0 +1,32 @@
+[  
+    {  
+      "id":1,
+      "name": "John Doe",  
+      "email": "user@gmail.com",
+      "password":"asd"  
+    },  
+    {  
+      "id":2,
+      "name": "Giorgio",  
+      "email": "Giorgio@gmail.com",
+      "password":"www"   
+    },  
+    {  
+      "id":3,
+      "name": "Mary Shelly",  
+      "email": "mary@gmail.com",
+      "password":"123"    
+    },  
+    {  
+      "id":4,
+      "name": "Peter Parker",  
+      "email": "smith@gmail.com",
+      "password":"123"  
+    },  
+    {  
+      "id":5,
+      "name": "Jon Jones",  
+      "email": "john@gmail.com",
+      "password":"123"  
+    }  
+  ]  
