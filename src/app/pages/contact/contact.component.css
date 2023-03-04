@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    justify-content: center;
+  }
+.form-group{
+    margin-bottom: 20px;
+}  
